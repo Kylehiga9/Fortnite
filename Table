@@ -1,0 +1,17 @@
+<html>
+<body>
+
+<table width='100%' border=1px cellspacing=0>
+<caption> Fortnite Stats </caption>
+<tr>
+  <th> Username </th>
+  <th> Console </th>
+  <th> Solo Wins </th>
+  <th> Duo Wins </th>
+  <th> Squad Wins </th> 
+  <th> Games Played </th>
+</tr>
+<tr>
+   <th> HiggaGang </th> 
+   
+   
